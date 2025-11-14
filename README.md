@@ -1,5 +1,5 @@
-# GUI_Based_Student-Mangement_System
-A comprehensive Java-based Student Management System with a graphical user interface (GUI) that provides complete management of students, teachers, courses, scores, and user accounts with persistent file-based data storage.
+<h1> GUI_Based_Student-Mangement_System </h1> 
+<h2> A comprehensive Java-based Student Management System with a graphical user interface (GUI) that provides complete management of students, teachers, courses, scores, and user accounts with persistent file-based data storage.</h2>
 
 
 
@@ -13,16 +13,16 @@ https://img.shields.io/badge/License-MIT-green.svg
 
 📋 Table of Contents
 <ol>
-Features
-Screenshots
-Technology Stack
-Installation
-Usage
-Project Structure
-Class Diagram
-Data Persistence
-Default Logins
-Contributing
+<li>Features</li>
+<li>Screenshots</li>
+<li>Technology Stack</li>
+<li>Installation</li>
+<li>Usage</li>
+<li>Project Structure</li>
+<li>Class Diagram</li> 
+<li>Data Persistence</li>
+<li>Default Logins</li>
+<li>Contributing</li>
 </ol>
 
 
